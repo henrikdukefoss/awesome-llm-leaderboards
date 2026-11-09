@@ -222,5 +222,12 @@
     "url": "https://spicyapi.app",
     "tags": ["leaderboard", "comparison", "benchmarks"],
     "description": "Independent comparison and benchmark site ranking NSFW AI image, video, and chat models with side-by-side test runs and published methodology (not a generator)."
+  },
+  {
+    "id": "european-llm-price-index",
+    "name": "European LLM Price Index",
+    "url": "https://standardcompute.com/european-llm-price-index",
+    "tags": ["pricing", "comparison"],
+    "description": "Input and output prices per million tokens for 20 frontier and open models on every provider that serves them, with European endpoints marked and the cheapest European option per model. Dated snapshot with a JSON download."
   }
 ]
